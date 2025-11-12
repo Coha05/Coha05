@@ -1,5 +1,7 @@
 # Hello, I'm **Coha** - Part of [SpiderNode](https://spidernode.net/)! 👋
 
+<img width="350" height="350" alt="spider-node" src="https://github.com/user-attachments/assets/91975035-bcb7-4cbd-92b6-432db9f6ae3c" />
+
 Welcome to my GitHub profile! 🌐✨
 
 ---
