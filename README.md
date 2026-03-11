@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🌐✨
 
 ## 🎨 About Me
 
-- 🔭 I’m running nodes for **Story** mainnet; **Monad**, **Avail**, **Dymension**, **Initia**, **OG**, and **Pell** testnets.
+- 🔭 I’m running nodes for **Story** mainnet; **Monad** mainnet, **Avail**, **Dymension**, **Initia**, **OG**, and **Pell** testnets.
 - 📫 How to reach me: **[on Telegram](https://t.me/notcoha)** or **[my X](https://x.com/Coha05_)**.
 
 ---
